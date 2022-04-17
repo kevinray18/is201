@@ -1,0 +1,27 @@
+span {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+.title1 {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.bold {
+    text-align: center;
+    text-decoration: bold;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #575757;
+    background-color: rgb(207, 183, 148);
+    
+}
+
+.header {
+    top: 5 px;
+    left: 5 px;
+    right: 5 px;
+    height: 100 px; 
+}
